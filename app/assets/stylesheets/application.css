@@ -1,0 +1,16 @@
+/* main-container */
+.custom-div{
+    padding: 3px;
+    border: 1px solid grey;
+    background-color: lightgray;
+   }
+   .custom-row{
+    margin-top:10px;
+   }
+   #main-container{
+    background-color: blue;
+   }
+   .custom-container{
+    padding: 0 10% 0 10%;
+    display: flex;
+   }
